@@ -1407,3 +1407,13 @@ background-color: black;
     transform: rotate(618deg);
     z-index: 15;
 }
+.boxplus1 {
+    background-color: white;
+    width: 7.4px;
+    height: 15.2px;
+    border-radius: 50%;
+    top: 78.4px;
+    left: 746.2px;
+    position: absolute;
+    z-index: 2;
+}
